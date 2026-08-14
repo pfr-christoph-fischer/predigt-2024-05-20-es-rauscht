@@ -10,9 +10,9 @@ series: "Österliche Freudenzeit 2024"
 summary: "Wo alle Hoffnung verloren scheint, schafft Gottes Geistkraft Neues: Mit derselben Kraft, die Jesus von den Toten auferweckt hat, belebt Gott seine Kirche und schenkt uns Hoffnung, Zukunft und Leben."
 source: pfarrplaner
 source_id: "72@planer.pfarr.tools"
-cover: cover.
+cover: es-rauscht.jpg
 cover_alt: "Titelbild zur Predigt \"Es rauscht\"."
-audio: audio.mp3
+audio: es-rauscht.mp3
 audio_duration: "16:21"
 legacy_id: 444
 events:
